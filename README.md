@@ -3,7 +3,7 @@
 Repo: https://github.com/ucsb-cs156-s24/jpa02-kriteenshrestha
 
 
-Deployed at: https://jpa02-kriteenshrestha.dokku-02.cs.ucsb.edu
+Deployed at: http://jpa02-kriteenshrestha.dokku-02.cs.ucsb.edu
 
 
 # About this repo
